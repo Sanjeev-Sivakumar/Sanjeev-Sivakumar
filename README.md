@@ -1,179 +1,52 @@
+Hi, I'm Sanjeev Kumar S
 
-# SANJEEV KUMAR S
+Full-Stack Developer | Backend & ML Engineer | Data Science Enthusiast
 
-**Software Engineer | Backend Developer | Data Structures & Algorithms**
+3rd-year Computer Science undergrad at Sri Krishna College of Engineering and Technology, Coimbatore. I build across full-stack development, cloud architecture, and applied machine learning, and I compete in national-level hackathons as a Team Lead.
 
-📍 Coimbatore, Tamil Nadu, India  
-📞 +91 8300122476  
-📧 sanjeevkumaredu8@gmail.com  
-🔗 [LinkedIn](#) • [GitHub](#) • [Portfolio](#)
+About Me
+Currently exploring Software Development, MLOps, and Data Science roles
+4x national hackathon winner across 7+ hackathons as Team Lead
+Machine Learning Intern at Unified Mentor (Remote)
+Previously interned as a Software Developer at Tecmac Education
+Actively deepening skills in Python for data analysis, statistics, and data storytelling
+Technical Skills
 
----
+Languages: Python, Java, C++, JavaScript, SQL
 
-## 👨‍💻 Profile
+Backend & Systems: Spring Boot, FastAPI, REST API Design, System Design
 
-Computer Science undergraduate with strong object-oriented programming fundamentals (**Java, C++**) and applied experience solving problems using **Data Structures & Algorithms**.
+Frontend: React.js, HTML/CSS
 
-Experienced in designing and building **backend services, REST APIs, and concurrent systems** from database design to deployment, with a focus on **reliability, performance, scalability, and clean engineering practices**.
+Databases: PostgreSQL, MySQL, DynamoDB
 
-Quick learner with proven collaboration skills demonstrated through **national hackathons, internship experience, and real-world software projects**.
+Cloud & DevOps: AWS (Lambda, EC2, S3, API Gateway, DynamoDB, Step Functions, CloudWatch, Cognito), Docker, CI/CD, CloudFormation/CDK, Git/GitHub
 
----
+Machine Learning & AI: TensorFlow, Scikit-learn, Random Forest, XGBoost, Isolation Forest, LangGraph, Agentic AI, RAG Pipelines
 
-## 💼 Internship Experience
+Data Analysis & BI Tools: SQL (MySQL), Power BI, Microsoft Excel, Data Visualization, Dashboarding
 
-### Software Developer Intern
-**Tecmac Education (ISO 9001:2015 Certified), Coimbatore**  
-**Dec 2024 – Aug 2025**
+Data Analytics: Advanced SQL, Python for Data Analysis (Pandas, NumPy, Matplotlib/Seaborn), Statistics and Probability, Advanced Excel, Data Storytelling
 
-- Developed backend services in **Java** and a modular **Node.js + PostgreSQL** architecture for a Student Management System handling attendance, reporting, and course workflows.
-- Designed secure **REST APIs** using **JWT Authentication** and **Role-Based Access Control (RBAC)**.
-- Improved system performance through **query optimization**, indexing, and backend architecture enhancements.
-- Automated backend data-processing workflows using **Python**.
-- Integrated **Machine Learning recommendation logic** into production pipelines while collaborating with stakeholders.
+Featured Projects
 
----
+1. Serverless ML Inference Platform Serverless ML inference architecture on AWS Lambda with adaptive per-request quantization routing (FP32/INT8/INT4), zero-downtime blue-green CI/CD, and predictive auto-scaling. Tech: AWS Lambda, API Gateway, DynamoDB, Step Functions, CDK
 
-## 🚀 Projects
+2. DEMAF - Explainable Multi-Agent Credit Decisioning System Dual-engine architecture separating LLM-based data verification from a deterministic rule-based credit engine, with an adversarial Red Team agent auditing decisions before issuance. Tech: LangGraph, Python, Pydantic, Jinja2
 
-### Scalable Multi-User Web Server (Vidhyaara Prototype)
+3. AutoShield - Adaptive Zero Trust Security Router Hybrid intrusion detection system (rule-based plus Isolation Forest) processing 15,000+ network events at under 150ms latency, with automated threat isolation. Tech: Python, Isolation Forest, IoT
 
-- Built a high-concurrency backend using **Node.js, PostgreSQL, and Redis**.
-- Achieved **~180–220ms API latency** under production-like load.
-- Containerized using **Docker** and deployed on **AWS EC2**.
-- Applied scalable backend architecture and system design principles.
+4. GeneForge - AI-Powered Gene Combination Prediction Platform Computational decision-support platform predicting phenotype outcomes from gene-gene interaction combinations, integrating IoT lab sensor data. Tech: Machine Learning, IoT, Computational Genetics, Cloud
 
----
+5. Ride-Hailing Demand and Cancellation Analytics Dashboard (In Progress) End-to-end analytics project on public ride-hailing trip data, analyzing demand patterns and cancellation drivers, with a Power BI dashboard for operational insights. Tech: SQL, Python (Pandas), Power BI
 
-### AI-Driven Cyber Immune System (AutoShield)
+Hackathon Achievements
+1st Prize - Tech Savishkaar 3.0 National Hackathon, Vasavi College of Engineering, Hyderabad (Team Lead)
+Runner-up - Proto'thon 26 National Hackathon, Prince Dr. K. Vasudevan CET, Chennai (Team Lead)
+Top 10 Finalist - graVITas'25 National Hackathon, VIT Vellore (Team Lead)
+Special Prize - Theervu'athon 2025 National Hackathon, PSGCAS, Coimbatore (Team Lead)
+Finalist - Genetrix 2K25 Hackathon, St. Joseph College of Engineering, Chennai
+Connect With Me
 
-- Developed a hybrid intrusion detection system combining **Rule-Based Detection** and **Isolation Forest**.
-- Processed **15,000+ security events** with **<150ms latency**.
-- Automated threat isolation following **Zero Trust Security** principles.
-
----
-
-### Real-Time Energy Analytics & Control System
-
-- Built an **ESP32 + MQTT** real-time IoT data pipeline.
-- Implemented **Random Forest forecasting** with **88% prediction accuracy**.
-- Reduced peak energy consumption by approximately **12%**.
-- Developed **Grafana dashboards** for live monitoring and anomaly detection.
-
----
-
-### SparseFormer (Research Project)
-
-**Status:** 🚧 In Progress
-
-- Implementing a Transformer architecture from scratch using **PyTorch**.
-- Exploring **dynamic token pruning** and **early-exit inference**.
-- Benchmarking **FLOPs vs Accuracy** trade-offs on the **SST-2 dataset**.
-
----
-
-## 🛠 Technical Skills
-
-### Core Computer Science
-
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- System Design
-
-### Programming Languages
-
-- Java
-- C++
-- Python
-- JavaScript
-- SQL
-
-### Backend Development
-
-- Node.js
-- FastAPI
-- REST APIs
-- JWT Authentication
-- RBAC
-- Asynchronous Processing
-
-### Databases & Caching
-
-- PostgreSQL
-- MySQL
-- Redis
-- Query Optimization
-- Database Indexing
-
-### Machine Learning
-
-- Scikit-learn
-- TensorFlow
-- Isolation Forest
-- ML Pipeline Integration
-
-### Cloud, DevOps & Tools
-
-- AWS (EC2, S3)
-- Docker
-- Linux
-- Git
-- Basic CI/CD
-- MQTT
-- Grafana
-
----
-
-## 🎓 Education
-
-**B.Tech – Computer Science and Engineering**  
-Sri Krishna College of Engineering and Technology, Coimbatore
-
-**2024 – Present**
-
-**CGPA:** 8.01 / 10
-
----
-
-## 🏆 Awards & Achievements
-
-🥇 **1st Prize** — Tech Savishkar 3.0 National Hackathon  
-*Vasavi College of Engineering, Hyderabad*  
-**Team Lead • ₹16,000 Prize**
-
-🥈 **Runner-Up** — Protothon'26 National Hackathon  
-*Prince Dr. K. Vasudevan College of Engineering, Chennai*  
-**Team Lead • ₹20,000 Prize**
-
-🏅 **Finalist (Top 10)** — Gravitas'25 National Hackathon  
-*VIT Vellore*  
-**Team Lead**
-
-🏅 **Special Prize** — Theervu'athon'25 National Hackathon  
-*PSGCAS, Coimbatore*  
-**Team Lead**
-
-📜 **Mastering Software Technology (MST)** – Tecmac
-
-Training in:
-
-- C
-- C++
-- Java
-- Python
-- Web Development
-- SQL
-- Data Structures & Algorithms
-
----
-
-## 📫 Connect with Me
-
-- 💼 LinkedIn: https://linkedin.com/in/your-profile
-- 💻 GitHub: https://github.com/your-username
-- 🌐 Portfolio: https://your-portfolio.com
-- 📧 Email: sanjeevkumaredu8@gmail.com
-
----
-
-⭐ *Open to Software Engineering, Backend Development, and Systems Engineering opportunities.*
+LinkedIn: https://www.linkedin.com/in/sanjeev-sivakumar 
+Email: sanjeevkumaredu8@gmail.com
