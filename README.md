@@ -1,51 +1,73 @@
-Hi, I'm Sanjeev Kumar S
+# Hi, I'm Sanjeev Sivakumar 👋
 
-Full-Stack Developer | Backend & ML Engineer | Data Science Enthusiast
+### Software Development Engineer | Backend, APIs & Data Pipelines
 
-3rd-year Computer Science undergrad at Sri Krishna College of Engineering and Technology, Coimbatore. I build across full-stack development, cloud architecture, and applied machine learning, and I compete in national-level hackathons as a Team Lead.
+I build backend services and data-driven applications using **Java, Python, SQL, and AWS**. I enjoy designing reliable REST APIs, improving database performance, and turning complex problems into practical software.
 
-About Me
-  Currently exploring Software Development, MLOps, and Data Science roles
-  4x national hackathon winner across 7+ hackathons as Team Lead
-  Machine Learning Intern at Unified Mentor (Remote)
-  Previously interned as a Software Developer at Tecmac Education
-  Actively deepening skills in Python for data analysis, statistics, and data storytelling
+- 🎓 Computer Science and Engineering student at **Sri Krishna College of Engineering and Technology**
+- 🔧 Working with **Spring Boot, FastAPI, Django, PostgreSQL, and AWS**
+- 🏆 Hackathon team lead and national-level hackathon award recipient
+- 📈 Interested in backend engineering, cloud platforms, and applied machine learning
+- 📍 Coimbatore, India
 
-Technical Skills
+---
 
-  Languages: Python, Java, C++, JavaScript, SQL
-  
-  Backend & Systems: Spring Boot, FastAPI, REST API Design, System Design
-  
-  Frontend: React.js, HTML/CSS
-  
-  Databases: PostgreSQL, MySQL, DynamoDB
-  
-  Cloud & DevOps: AWS (Lambda, EC2, S3, API Gateway, DynamoDB, Step Functions, CloudWatch, Cognito), Docker, CI/CD, CloudFormation/CDK, Git/GitHub
-  
-  Machine Learning & AI: TensorFlow, Scikit-learn, Random Forest, XGBoost, Isolation Forest, LangGraph, Agentic AI, RAG Pipelines
-  
-  Data Analysis & BI Tools: SQL (MySQL), Power BI, Microsoft Excel, Data Visualization, Dashboarding, Advanced SQL, Python for Data Analysis (Pandas, NumPy,      Matplotlib/Seaborn), Statistics and Probability, Advanced Excel, Data Storytelling
+## Featured Projects
 
-Featured Projects
+### [Serverless ML Inference Platform](YOUR_PROJECT_LINK)
+A serverless inference platform built with Python, AWS Lambda, DynamoDB, AWS CDK, and React.  
+**Highlights:** Reduced reported monthly hosting costs by ~35% and cold-start delay by ~40%; API responses under 200 ms.
 
-  1. Serverless ML Inference Platform Serverless ML inference architecture on AWS Lambda with adaptive per-request quantization routing (FP32/INT8/INT4), zero-downtime blue-green CI/CD, and predictive auto-scaling. Tech: AWS Lambda, API Gateway, DynamoDB, Step Functions, CDK
-  
-  2. DEMAF - Explainable Multi-Agent Credit Decisioning System Dual-engine architecture separating LLM-based data verification from a deterministic rule-based credit engine, with an adversarial Red Team agent auditing decisions before issuance. Tech: LangGraph, Python, Pydantic, Jinja2
-  
-  3. AutoShield - Adaptive Zero Trust Security Router Hybrid intrusion detection system (rule-based plus Isolation Forest) processing 15,000+ network events at under 150ms latency, with automated threat isolation. Tech: Python, Isolation Forest, IoT
-  
-  4. GeneForge - AI-Powered Gene Combination Prediction Platform Computational decision-support platform predicting phenotype outcomes from gene-gene interaction combinations, integrating IoT lab sensor data. Tech: Machine Learning, IoT, Computational Genetics, Cloud
-  
-  5. Ride-Hailing Demand and Cancellation Analytics Dashboard (In Progress) End-to-end analytics project on public ride-hailing trip data, analyzing demand patterns and cancellation drivers, with a Power BI dashboard for operational insights. Tech: SQL, Python (Pandas), Power BI
+### [Drishyam-Mesh — Student Data & Admission Quota Platform](YOUR_PROJECT_LINK)
+A student-data platform built with Java 21, Spring Boot, React, and PostgreSQL.  
+**Highlights:** Designed to prevent duplicate student profiles and fraudulent seat claims; **39/39 automated tests passing**. National Hackathon semi-finalist.
 
-Hackathon Achievements
-  1st Prize - Tech Savishkaar 3.0 National Hackathon, Vasavi College of Engineering, Hyderabad (Team Lead)
-  Runner-up - Proto'thon 26 National Hackathon, Prince Dr. K. Vasudevan CET, Chennai (Team Lead)
-  Top 10 Finalist - graVITas'25 National Hackathon, VIT Vellore (Team Lead)
-  Special Prize - Theervu'athon 2025 National Hackathon, PSGCAS, Coimbatore (Team Lead)
-  Finalist - Genetrix 2K25 Hackathon, St. Joseph College of Engineering, Chennai
-Connect With Me
+### [Aegis-Volt — Network Traffic Optimization Backend](YOUR_PROJECT_LINK)
+A traffic-prioritization backend built with Python, FastAPI, and C.  
+**Highlights:** Reported latency reduction from 466.4 ms to 14.8 ms under heavy traffic, with zero packet drops in testing.
 
-LinkedIn: https://www.linkedin.com/in/sanjeev-sivakumar 
-Email: sanjeevkumaredu8@gmail.com
+### [AetherVault — Fixed Deposit Verification Platform](YOUR_PROJECT_LINK)
+A certificate verification platform built with FastAPI, PostgreSQL, and Next.js.  
+**Highlights:** Automated certificate checks with AES-256 encryption and cryptographic audit logs.
+
+---
+
+## Tech Stack
+
+**Languages**  
+Java · Python · C++ · SQL · JavaScript · TypeScript
+
+**Backend & APIs**  
+Spring Boot · FastAPI · Django · REST API design · JWT · Role-Based Access Control
+
+**Databases & Data**  
+PostgreSQL · MySQL · DynamoDB · Redis · Pandas · NumPy
+
+**Cloud & Tools**  
+AWS · Docker · Git · GitHub · CI/CD
+
+---
+
+## Achievements
+
+- 🥇 **1st Prize** — Tech Savishkaar 3.0 National Hackathon, Team Lead
+- 🥈 **Runner-up** — Proto'thon 26 National Hackathon, Team Lead
+- 🌟 **Special Prize** — Theervu'athon 2025, Team Lead
+- 🎬 Finalist — Agentic Cinema Hackathon
+- 🏅 Semi-finalist — Smart India Hackathon (SIH)
+
+---
+
+## Open Source
+
+I maintain **25+ additional engineering projects** covering database systems, data scraping, and predictive machine learning.
+
+➡️ [Explore my repositories](https://github.com/Sanjeev-Sivakumar?tab=repositories)
+
+---
+
+## Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanjeev-Sivakumar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
