@@ -253,7 +253,7 @@
 </table>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sanjeev-Sivakumar&theme=tokyonight&hide_border=true&langs_count=10&layout=compact&card_width=760" width="100%" alt="Most Used Languages" />
+  <img src="most-used-languages.svg" width="100%" alt="Most Used Languages" />
 </p>
 
 <p align="center">

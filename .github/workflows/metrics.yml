@@ -15,6 +15,39 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Update Centered Most Used Languages SVG
+        run: |
+          python -c "
+          import urllib.request
+          url = 'https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sanjeev-Sivakumar&theme=tokyonight&hide_border=true&langs_count=10&layout=compact&card_width=760'
+          req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+          try:
+              with urllib.request.urlopen(req) as resp:
+                  svg = resp.read().decode('utf-8')
+              new_svg = svg.replace('<g transform=\"translate(0, 25)\">', '<g transform=\"translate(210, 25)\">', 1)
+              with open('most-used-languages.svg', 'w', encoding='utf-8') as f:
+                  f.write(new_svg)
+              print('Successfully updated most-used-languages.svg')
+          except Exception as e:
+              print('Error updating languages SVG:', e)
+          "
+
+      - name: Commit Updated Languages SVG
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add most-used-languages.svg
+          git commit -m "chore: refresh centered most-used-languages.svg [skip ci]" || echo "No changes to commit"
+          git push || echo "Push skipped or already updated"
+
       - name: Generate GitHub Metrics
         uses: lowlighter/metrics@latest
         with:
