@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=Sanjeev+Kumar+S+%E2%80%94+Software+Development+Engineer+(Backend+%26+Cloud);AI%2FML+Systems+Builder+%7C+Distributed+%26+High-Concurrency+Systems;3rd-Year+CSE+%40+SKCET+(CGPA+8.4%2F10)+%7C+4x+National+Hackathon+Lead)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sanjeev-kumar-s">
+  <a href="https://www.linkedin.com/in/sanjeev-sivakumar">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:sanjeevkumaredu8@gmail.com">
