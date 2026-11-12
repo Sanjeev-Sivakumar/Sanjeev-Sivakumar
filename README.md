@@ -153,29 +153,86 @@
 
 ---
 
-### 📂 Standout Repositories (25+ Projects)
+### 📂 Standout Engineering Repositories (Selected from 25+ Projects)
 
-<div align="center">
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left" width="28%">Project & Repository</th>
+      <th align="left" width="22%">Engineering Domain</th>
+      <th align="left" width="35%">Architecture & Technical Highlights</th>
+      <th align="left" width="15%">Core Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b><a href="https://github.com/Sanjeev-Sivakumar/WARDEN_Algorythm">🛡️ WARDEN</a></b></td>
+      <td><code>AI Agent Security</code></td>
+      <td>11-pillar runtime security layer intercepting AI tool calls; PyTorch autoencoders for behavioral drift detection</td>
+      <td><code>PyTorch</code> <code>TrOCR</code> <code>Python</code></td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/Sanjeev-Sivakumar/Agentic-Cinema">🎬 Agentic-Cinema</a></b></td>
+      <td><code>Multimodal AI Agents</code></td>
+      <td>8-agent pre-clearance pipeline combining screenplay NLP, Gemini Vision, and YOLOv8 for rights clearance</td>
+      <td><code>Google ADK</code> <code>YOLOv8</code> <code>FastAPI</code></td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/Sanjeev-Sivakumar/Elder-Safety-Mesh">👴 Elder-Safety-Mesh</a></b></td>
+      <td><code>Embedded & IoT Mesh</code></td>
+      <td>Autonomous touchless spatial safety and biometric triage system for community senior care</td>
+      <td><code>C</code> <code>IoT Mesh</code> <code>Sensors</code></td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/Sanjeev-Sivakumar/Ring-Compass">🧭 Ring-Compass</a></b></td>
+      <td><code>Spatial Algorithms</code></td>
+      <td>Kinematic spatial tracking and predictive behavioral anomaly triage engine for dementia sundowning</td>
+      <td><code>C</code> <code>Spatial Kinematics</code></td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/Sanjeev-Sivakumar/AEGIS-Razorpay-Buildathon">💳 AEGIS-Razorpay</a></b></td>
+      <td><code>FinTech Gateway</code></td>
+      <td>High-throughput transaction routing and fraud verification architecture built for Razorpay Buildathon</td>
+      <td><code>TypeScript</code> <code>Node.js</code></td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/Sanjeev-Sivakumar/AnatomoZK">🔐 AnatomoZK</a></b></td>
+      <td><code>Zero-Knowledge Cryptography</code></td>
+      <td>Privacy-preserving zero-knowledge proof verification protocol for sensitive anatomical credentials</td>
+      <td><code>Python</code> <code>ZK Proofs</code></td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/Sanjeev-Sivakumar/AI-Cyber-Immune-System-with-Edge-Rover-for-Real-Time-Threat-Detection">🤖 AI Cyber Immune Rover</a></b></td>
+      <td><code>Edge AI & Robotics</code></td>
+      <td>Autonomous real-time cybersecurity threat detection pipeline running on an edge robotics rover</td>
+      <td><code>Python</code> <code>Edge AI</code></td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/Sanjeev-Sivakumar/phytonet-ledger">🌱 phytonet-ledger</a></b></td>
+      <td><code>IoT & Web3 Protocol</code></td>
+      <td>Decentralized environmental telemetry verification and microclimate sensor data logging</td>
+      <td><code>TypeScript</code> <code>IoT</code> <code>Web3</code></td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/Sanjeev-Sivakumar/Globetrotter-Odoo_Hackathon">🌍 Globetrotter</a></b></td>
+      <td><code>Full-Stack Cloud</code></td>
+      <td>Dynamic travel exploration and interactive leaderboard engine built for Odoo Hackathon</td>
+      <td><code>JavaScript</code> <code>Python</code></td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/Sanjeev-Sivakumar/SmartHospital-WebApp">🏥 SmartHospital WebApp</a></b></td>
+      <td><code>Healthcare Systems</code></td>
+      <td>Role-isolated clinical operations, ward allocation, and real-time patient triage portal</td>
+      <td><code>JavaScript</code> <code>HTML5</code> <code>CSS3</code></td>
+    </tr>
+  </tbody>
+</table>
 
-[![Aegis-Volt](https://img.shields.io/badge/Aegis--Volt-eBPF%20%7C%20Linux%20QoS-blue?style=flat-square&logo=linux)](https://github.com/Sanjeev-Sivakumar/Aegis-Volt)
-[![Drishyam-Mesh](https://img.shields.io/badge/Drishyam--Mesh-Neo4j%20%7C%20Redis%20%7C%20Spring%20Boot-green?style=flat-square&logo=spring)](https://github.com/Sanjeev-Sivakumar/Drishyam-Mesh)
-[![Serverless-ML](https://img.shields.io/badge/Serverless--ML-AWS%20Lambda%20%7C%20CDK-FF9900?style=flat-square&logo=amazon-aws)](https://github.com/Sanjeev-Sivakumar/Serverless-ML-Inference-Platform)
-[![AetherVault](https://img.shields.io/badge/AetherVault-FastAPI%20%7C%20Audit%20Ledger-red?style=flat-square&logo=fastapi)](https://github.com/Sanjeev-Sivakumar/AetherVault)
-[![WARDEN](https://img.shields.io/badge/WARDEN-Agent%20Security%20%7C%20PyTorch-8A2BE2?style=flat-square&logo=pytorch)](https://github.com/Sanjeev-Sivakumar/WARDEN_Algorythm)
-[![Agentic-Cinema](https://img.shields.io/badge/Agentic--Cinema-Google%20ADK%20%7C%20Gemini%20Vision-4285F4?style=flat-square&logo=google)](https://github.com/Sanjeev-Sivakumar/Agentic-Cinema)
-
-[![Elder-Safety-Mesh](https://img.shields.io/badge/Elder--Safety--Mesh-Spatial%20Safety%20%7C%20C-555555?style=flat-square)](https://github.com/Sanjeev-Sivakumar/Elder-Safety-Mesh)
-[![Ring-Compass](https://img.shields.io/badge/Ring--Compass-Dementia%20Triage%20%7C%20C-grey?style=flat-square)](https://github.com/Sanjeev-Sivakumar/Ring-Compass)
-[![AEGIS-Razorpay](https://img.shields.io/badge/AEGIS--Razorpay-FinTech%20%7C%20TypeScript-blue?style=flat-square&logo=typescript)](https://github.com/Sanjeev-Sivakumar/AEGIS-Razorpay-Buildathon)
-[![AnatomoZK](https://img.shields.io/badge/AnatomoZK-Zero--Knowledge%20Proofs-purple?style=flat-square)](https://github.com/Sanjeev-Sivakumar/AnatomoZK)
-[![phytonet-ledger](https://img.shields.io/badge/phytonet--ledger-IoT%20%7C%20Web3-teal?style=flat-square)](https://github.com/Sanjeev-Sivakumar/phytonet-ledger)
-[![Globetrotter](https://img.shields.io/badge/Globetrotter-Odoo%20Hackathon-purple?style=flat-square&logo=odoo)](https://github.com/Sanjeev-Sivakumar/Globetrotter-Odoo_Hackathon)
-
-<br/>
-
-➡️ **[Browse all 25+ repositories & open-source tools](https://github.com/Sanjeev-Sivakumar?tab=repositories)**
-
-</div>
+<p align="center">
+  <a href="https://github.com/Sanjeev-Sivakumar?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20All%2025%2B%20Repositories-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Explore All Repositories" />
+  </a>
+</p>
 
 ---
 
