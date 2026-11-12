@@ -21,27 +21,27 @@
 
 ---
 
-### 📊 Live Activity & Contribution Graphs
+### 📊 Activity & Engineering Graphs
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Sanjeev-Sivakumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="Sanjeev's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=Sanjeev-Sivakumar&theme=tokyonight&hide_border=true" width="49%" alt="Sanjeev's GitHub Streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Sanjeev-Sivakumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="380" alt="Sanjeev's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Sanjeev-Sivakumar&theme=tokyonight&hide_border=true" width="380" alt="Sanjeev's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sanjeev-Sivakumar&theme=tokyonight" width="49%" alt="Repos per Language Chart" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sanjeev-Sivakumar&theme=tokyonight" width="49%" alt="Commit Language Chart" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sanjeev-Sivakumar&theme=tokyonight" width="380" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sanjeev-Sivakumar&theme=tokyonight" width="380" alt="Top Languages by Commit" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sanjeev-Sivakumar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="65%" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sanjeev-Sivakumar&theme=tokyonight&hide_border=true" width="420" alt="Most Used Languages" />
 </p>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sanjeev-Sivakumar/Sanjeev-Sivakumar/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sanjeev-Sivakumar/Sanjeev-Sivakumar/output/github-contribution-grid-snake.svg">
-    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/Sanjeev-Sivakumar/Sanjeev-Sivakumar/output/github-contribution-grid-snake-dark.svg" width="98%">
+    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/Sanjeev-Sivakumar/Sanjeev-Sivakumar/output/github-contribution-grid-snake-dark.svg" width="760">
   </picture>
 </p>
 
@@ -67,39 +67,89 @@
 
 ### 🚀 Featured Systems & Flagship Architectures
 
-<p align="center">
-  <a href="https://github.com/Sanjeev-Sivakumar/Drishyam-Mesh">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Sanjeev-Sivakumar&repo=Drishyam-Mesh&theme=tokyonight&hide_border=true" width="49%" alt="Drishyam-Mesh Pin" />
-  </a>
-  <a href="https://github.com/Sanjeev-Sivakumar/Aegis-Volt">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Sanjeev-Sivakumar&repo=Aegis-Volt&theme=tokyonight&hide_border=true" width="49%" alt="Aegis-Volt Pin" />
-  </a>
-</p>
-
-<div align="center">
-
-| **[Drishyam-Mesh](https://github.com/Sanjeev-Sivakumar/Drishyam-Mesh)** | **[Aegis-Volt](https://github.com/Sanjeev-Sivakumar/Aegis-Volt)** |
-| :--- | :--- |
-| **Zero-Trust Institutional Data Governance Platform (AICTE)**<br>• `< 4 ms` in-memory Redis Bloom Filter pre-filtering<br>• Neo4j Cypher graph traversal for duplicate seat detection<br>• **39 / 39** E2E integration tests passing • DPDP Act 2023 | **Adaptive QoS Engine & Pre-Emptive Network Orchestrator**<br>• **96.8% latency reduction** ($466.8\text{ ms} \to 15.0\text{ ms}$ under load)<br>• C (eBPF/XDP zero-copy ingress) + Linux `tc-cake` Netlink RCU<br>• **0.0% packet loss** on interactive gaming & VoIP traffic |
-
-</div>
-
-<p align="center">
-  <a href="https://github.com/Sanjeev-Sivakumar/Serverless-ML-Inference-Platform">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Sanjeev-Sivakumar&repo=Serverless-ML-Inference-Platform&theme=tokyonight&hide_border=true" width="49%" alt="Serverless ML Platform Pin" />
-  </a>
-  <a href="https://github.com/Sanjeev-Sivakumar/AetherVault">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Sanjeev-Sivakumar&repo=AetherVault&theme=tokyonight&hide_border=true" width="49%" alt="AetherVault Pin" />
-  </a>
-</p>
-
-<div align="center">
-
-| **[Serverless ML Platform](https://github.com/Sanjeev-Sivakumar/Serverless-ML-Inference-Platform)** | **[AetherVault](https://github.com/Sanjeev-Sivakumar/AetherVault)** |
-| :--- | :--- |
-| **High-Throughput Serverless ML Inference Platform (AWS)**<br>• Dynamic quantization routing (FP32 / INT8 / INT4) with sub-200ms SLA<br>• `< 12 ms` DynamoDB SHA-256 fingerprint cache hits<br>• **40.0% cold-start cut** (980ms $\to$ 588ms) • **~60% cloud cost reduction** | **Regulatory Security Deposit & FDR Management Platform (AICTE)**<br>• Automated 3-way reconciliation (Institution claims vs OCR vs CBS/SFMS)<br>• **Self-healing SHA-256 Merkle-style hash-chained audit ledger**<br>• AES-256-GCM encrypted storage • 1-click court invocation bundle |
-
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">
+        <a href="https://github.com/Sanjeev-Sivakumar/Drishyam-Mesh">🌐 Drishyam-Mesh</a>
+      </h3>
+      <p><b>Zero-Trust Institutional Data Governance Platform (AICTE)</b></p>
+      <p>
+        <img src="https://img.shields.io/badge/Java%2021-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring%20Boot%203-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+        <img src="https://img.shields.io/badge/Neo4j-45818E?style=flat-square&logo=neo4j&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+        <img src="https://img.shields.io/badge/React%2019-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      </p>
+      <ul>
+        <li><b>&lt; 4 ms</b> in-memory Redis Bloom Filter pre-filtering</li>
+        <li>Neo4j Cypher graph traversal for duplicate seat detection</li>
+        <li><b>39 / 39</b> passing E2E integration test suite</li>
+        <li>DPDP Act 2023 zero-knowledge privacy compliance</li>
+      </ul>
+      <p align="right"><a href="https://github.com/Sanjeev-Sivakumar/Drishyam-Mesh"><b>View Repository →</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="left">
+        <a href="https://github.com/Sanjeev-Sivakumar/Aegis-Volt">⚡ Aegis-Volt</a>
+      </h3>
+      <p><b>Adaptive QoS Engine & Pre-Emptive Network Orchestrator</b></p>
+      <p>
+        <img src="https://img.shields.io/badge/C%20(eBPF%2FXDP)-00599C?style=flat-square&logo=c&logoColor=white" />
+        <img src="https://img.shields.io/badge/Linux%20tc--cake-FCC624?style=flat-square&logo=linux&logoColor=black" />
+        <img src="https://img.shields.io/badge/Python%20Numba-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      </p>
+      <ul>
+        <li><b>96.8% latency reduction</b> (466.8 ms → 15.0 ms under load)</li>
+        <li>Kernel-space eBPF/XDP zero-copy packet interception</li>
+        <li><b>0.0% packet loss</b> on real-time interactive traffic</li>
+        <li><b>&lt; 85 ms</b> atomic RCU qdisc pointer swaps via Netlink</li>
+      </ul>
+      <p align="right"><a href="https://github.com/Sanjeev-Sivakumar/Aegis-Volt"><b>View Repository →</b></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">
+        <a href="https://github.com/Sanjeev-Sivakumar/Serverless-ML-Inference-Platform">☁️ Serverless ML Platform</a>
+      </h3>
+      <p><b>High-Throughput Serverless Inference Architecture (AWS)</b></p>
+      <p>
+        <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" />
+        <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Step%20Functions-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS%20CDK-232F3E?style=flat-square&logo=amazoncloudwatch&logoColor=white" />
+      </p>
+      <ul>
+        <li>Dynamic quantization routing (FP32 / INT8 / INT4)</li>
+        <li><b>&lt; 12 ms</b> DynamoDB SHA-256 fingerprint cache hits</li>
+        <li><b>40.0% cold-start drop</b> (980 ms → 588 ms)</li>
+        <li><b>~60% cloud hosting cost reduction</b> under sub-200ms SLA</li>
+      </ul>
+      <p align="right"><a href="https://github.com/Sanjeev-Sivakumar/Serverless-ML-Inference-Platform"><b>View Repository →</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="left">
+        <a href="https://github.com/Sanjeev-Sivakumar/AetherVault">🛡️ AetherVault</a>
+      </h3>
+      <p><b>Regulatory Security Deposit & FDR Management (AICTE)</b></p>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js%2016-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLite%20WAL-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+      </p>
+      <ul>
+        <li>Automated 3-way reconciliation (Claims vs OCR vs CBS/SFMS)</li>
+        <li><b>Self-healing SHA-256</b> Merkle hash chain audit ledger</li>
+        <li><b>AES-256-GCM</b> authenticated envelope encryption</li>
+        <li>1-click court-ready legal invocation bundle generator</li>
+      </ul>
+      <p align="right"><a href="https://github.com/Sanjeev-Sivakumar/AetherVault"><b>View Repository →</b></a></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
