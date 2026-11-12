@@ -21,32 +21,6 @@
 
 ---
 
-### 📊 Activity & Engineering Graphs
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Sanjeev-Sivakumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="380" alt="Sanjeev's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=Sanjeev-Sivakumar&theme=tokyonight&hide_border=true" width="380" alt="Sanjeev's GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sanjeev-Sivakumar&theme=tokyonight" width="380" alt="Top Languages by Repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sanjeev-Sivakumar&theme=tokyonight" width="380" alt="Top Languages by Commit" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sanjeev-Sivakumar&theme=tokyonight&hide_border=true" width="420" alt="Most Used Languages" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sanjeev-Sivakumar/Sanjeev-Sivakumar/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sanjeev-Sivakumar/Sanjeev-Sivakumar/output/github-contribution-grid-snake.svg">
-    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/Sanjeev-Sivakumar/Sanjeev-Sivakumar/output/github-contribution-grid-snake-dark.svg" width="760">
-  </picture>
-</p>
-
----
-
 ### ⚡ Core Tech Stack
 
 <div align="center">
@@ -58,8 +32,8 @@
 <div align="center">
 
 | Backend & Systems | Cloud & DevOps | Databases & Caching | Applied AI/ML | Frontend |
-| :---: | :---: | :---: | :---: | :---: |
-| **Java 21 · Spring Boot 3**<br>Python (FastAPI, Django)<br>C / C++ (eBPF / XDP)<br>Node.js · REST · RBAC | **AWS (Lambda, CDK)**<br>DynamoDB · Step Functions<br>Docker · Linux `tc-cake`<br>GitHub Actions CI/CD | **PostgreSQL · MySQL 8**<br>Amazon DynamoDB<br>Redis (Bloom Filters)<br>Neo4j Graph DB · SQLite | **PyTorch · Scikit-learn**<br>XGBoost · LangGraph<br>Multi-Agent Systems<br>Computer Vision (YOLOv8) | **React 19**<br>Next.js 16 (App Router)<br>TypeScript<br>Tailwind CSS |
+| :--- | :--- | :--- | :--- | :--- |
+| • **Java 21 · Spring Boot 3**<br>• Python (FastAPI, Django)<br>• C / C++ (eBPF / XDP)<br>• Node.js · REST · RBAC | • **AWS (Lambda, CDK)**<br>• DynamoDB · Step Functions<br>• Docker · Linux `tc-cake`<br>• GitHub Actions CI/CD | • **PostgreSQL · MySQL 8**<br>• Amazon DynamoDB<br>• Redis (Bloom Filters)<br>• Neo4j Graph DB · SQLite | • **PyTorch · Scikit-learn**<br>• XGBoost · LangGraph<br>• Multi-Agent Systems<br>• Computer Vision (YOLOv8) | • **React 19**<br>• Next.js 16 (App Router)<br>• TypeScript<br>• Tailwind CSS |
 
 </div>
 
@@ -254,6 +228,32 @@
 `Microsoft Certified Technology Associate (MST)` • `NPTEL IIT Certifications (DSA & Cloud)`
 
 </div>
+
+---
+
+### 📊 Activity & Engineering Graphs
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Sanjeev-Sivakumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="380" alt="Sanjeev's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Sanjeev-Sivakumar&theme=tokyonight&hide_border=true" width="380" alt="Sanjeev's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sanjeev-Sivakumar&theme=tokyonight" width="380" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sanjeev-Sivakumar&theme=tokyonight" width="380" alt="Top Languages by Commit" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sanjeev-Sivakumar&theme=tokyonight&hide_border=true" width="420" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sanjeev-Sivakumar/Sanjeev-Sivakumar/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sanjeev-Sivakumar/Sanjeev-Sivakumar/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/Sanjeev-Sivakumar/Sanjeev-Sivakumar/output/github-contribution-grid-snake-dark.svg" width="760">
+  </picture>
+</p>
 
 ---
 
