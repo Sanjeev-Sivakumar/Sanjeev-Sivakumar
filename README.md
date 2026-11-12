@@ -233,25 +233,34 @@
 
 ### 📊 Activity & Engineering Graphs
 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Sanjeev-Sivakumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="195" alt="Sanjeev's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=Sanjeev-Sivakumar&theme=tokyonight&hide_border=true" height="195" alt="Sanjeev's GitHub Streak" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=Sanjeev-Sivakumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" alt="Sanjeev's GitHub Stats" />
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://streak-stats.demolab.com/?user=Sanjeev-Sivakumar&theme=tokyonight&hide_border=true" width="100%" alt="Sanjeev's GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sanjeev-Sivakumar&theme=tokyonight" width="100%" alt="Top Languages by Repo" />
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sanjeev-Sivakumar&theme=tokyonight" width="100%" alt="Top Languages by Commit" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sanjeev-Sivakumar&theme=tokyonight" height="195" alt="Top Languages by Repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sanjeev-Sivakumar&theme=tokyonight" height="195" alt="Top Languages by Commit" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sanjeev-Sivakumar&theme=tokyonight&hide_border=true&langs_count=3" height="195" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sanjeev-Sivakumar&theme=tokyonight&hide_border=true&langs_count=10&layout=compact&card_width=760" width="100%" alt="Most Used Languages" />
 </p>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sanjeev-Sivakumar/Sanjeev-Sivakumar/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sanjeev-Sivakumar/Sanjeev-Sivakumar/output/github-contribution-grid-snake.svg">
-    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/Sanjeev-Sivakumar/Sanjeev-Sivakumar/output/github-contribution-grid-snake-dark.svg" width="760">
+    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/Sanjeev-Sivakumar/Sanjeev-Sivakumar/output/github-contribution-grid-snake-dark.svg" width="100%">
   </picture>
 </p>
 
