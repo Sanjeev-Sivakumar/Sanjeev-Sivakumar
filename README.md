@@ -234,17 +234,17 @@
 ### 📊 Activity & Engineering Graphs
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Sanjeev-Sivakumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="380" alt="Sanjeev's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=Sanjeev-Sivakumar&theme=tokyonight&hide_border=true" width="380" alt="Sanjeev's GitHub Streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Sanjeev-Sivakumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="195" alt="Sanjeev's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Sanjeev-Sivakumar&theme=tokyonight&hide_border=true" height="195" alt="Sanjeev's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sanjeev-Sivakumar&theme=tokyonight" width="380" alt="Top Languages by Repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sanjeev-Sivakumar&theme=tokyonight" width="380" alt="Top Languages by Commit" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sanjeev-Sivakumar&theme=tokyonight" height="195" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sanjeev-Sivakumar&theme=tokyonight" height="195" alt="Top Languages by Commit" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sanjeev-Sivakumar&theme=tokyonight&hide_border=true" width="420" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sanjeev-Sivakumar&theme=tokyonight&hide_border=true&langs_count=3" height="195" alt="Most Used Languages" />
 </p>
 
 <p align="center">
